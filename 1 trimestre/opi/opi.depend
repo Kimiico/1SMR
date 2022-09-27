@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543408809 source:/home/alum3/Escritorio/SISTEMAS OPERATIVOS MONOPUESTOS/opi/main.c
+	<stdio.h>
+	<stdlib.h>
+
